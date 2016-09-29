@@ -81,4 +81,4 @@ func userNotificationCenter(_ center: UNUserNotificationCenter, didReceive respo
 
 <p align="justify">If it's available in your certificates then it will enable directly else configure your profile with the certificates and you can enable this capability by that.</p>
 
-<b>Blogpost on my website : <a href="http://ashishkakkad.com/2016/09/push-notifications-in-ios-10-swift/" target="_blank">Push Notifications in iOS 10 [Swift]</a><b>
+<b>Blogpost on my website : <a href="http://ashishkakkad.com/2016/09/push-notifications-in-ios-10-swift/" target="_blank">Push Notifications in iOS 10 [Swift]</a></b>
